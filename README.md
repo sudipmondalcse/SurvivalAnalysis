@@ -1,18 +1,15 @@
 # SurvivalAnalysis
 
+***Dataset preparation***
+
 **Label for Breast cancer data:**
 
-Ethnicity:
- white =0
- black or african american =1
- asian=2
-
-Status: 
-
-1 =alive, 2=dead
-
-Stage:
-
+**Ethnicity:**
+      white =0
+      black or african american =1
+      asian=2
+**Status:**   1 =alive, 2=dead
+**Stage:**
 stage:i=0, stage:ia=0, stage:ib=0
 stage:iia=1, stage:iib=1
 stage:iiia=2, stage:iiib=2, stage:iiic=2
