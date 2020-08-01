@@ -7,8 +7,8 @@
 **Ethnicity:** <br/>
       white =0
       black or african american =1
-      asian=2
-**Status:**   1 =alive, 2=dead
+      asian=2 <br/>
+**Status:**   1 =alive, 2=dead <br/>
 **Stage:** <br/>
 stage:i=0, stage:ia=0, stage:ib=0
 stage:iia=1, stage:iib=1
