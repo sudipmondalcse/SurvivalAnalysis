@@ -1,5 +1,6 @@
 # SurvivalAnalysis
 
+**Label for Breast cancer data:**
 Ethnicity:
  white =0
  black or african american =1
@@ -27,3 +28,5 @@ BRCA1 High=2
 ATM avg FPKM 2.43
 low FPKM =1
 BRCA1 High=2
+
+**Label for Ovarian cancer data:**
