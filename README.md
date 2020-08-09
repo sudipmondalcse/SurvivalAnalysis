@@ -3,8 +3,8 @@
 ***Dataset preparation*** <br/>
 breast.txt and ovary.txt is the input files for the analysis.  <br/>
 We have preprocessed the original data and initialized some labels according to the category. <br/>
-**Label for Breast & Ovarian cancer data:**
 
+**Label for Breast & Ovarian cancer data:**
 **Ethnicity:** <br/>
       white =0
       black or african american =1
