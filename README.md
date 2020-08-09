@@ -1,5 +1,7 @@
 # SurvivalAnalysis
 
+***Prerequisites :*** <br/>
+
 ***Dataset preparation*** <br/>
 breast.txt and ovary.txt is the input files for the analysis.  <br/>
 We have preprocessed the original data and initialized some labels according to the category. <br/>
@@ -30,8 +32,13 @@ BRCA1 High=2
 
 *******************************
 
-***Dataset preparation*** <br/>
+***To start a run :*** <br/>
 Ovary_KM.R
 ovary_Cox.R
 Breast_KM.R
 breast_cox.R
+
+
+
+***Feedback*** <br/>
+
