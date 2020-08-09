@@ -34,10 +34,10 @@ BRCA1 High=2
 *******************************
 
 ***To start a run :*** <br/>
-Ovary_KM.R
-ovary_Cox.R
-Breast_KM.R
-breast_cox.R <br/>
+Breast_KM.R & Ovary_KM.R for Kaplan-Meier
+
+breast_cox.R & ovary_Cox.R for Cox PH
+ <br/>
 
 
 
