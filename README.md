@@ -1,9 +1,9 @@
 # SurvivalAnalysis
 
 ***Dataset preparation*** <br/>
-breast.txt and ovary.txt is the input files for the analysis. 
+breast.txt and ovary.txt is the input files for the analysis.  <br/>
 We have preprocessed the original data and initialized some labels according to the category. <br/>
-**Label for Breast cancer data:**
+**Label for Breast & Ovarian cancer data:**
 
 **Ethnicity:** <br/>
       white =0
@@ -28,4 +28,5 @@ ATM avg FPKM 2.43
 low FPKM =1
 BRCA1 High=2
 
-**Label for Ovarian cancer data:**
+*******************************
+
