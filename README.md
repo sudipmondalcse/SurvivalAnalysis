@@ -1,7 +1,8 @@
 # SurvivalAnalysis
 
 ***Dataset preparation***
-
+breast.txt and ovary.txt is the input files for the analysis. 
+We have preprocessed the original data and initialized some labels according to the category.
 **Label for Breast cancer data:**
 
 **Ethnicity:** <br/>
