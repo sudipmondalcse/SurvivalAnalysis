@@ -1,8 +1,8 @@
 # SurvivalAnalysis
 
 ***Prerequisites :*** <br/>
-The required dependencies for the analysis is R programming***R version >= 3.6***
-and is tested to work under windows as well as Ubuntu.
+The required dependencies for the analysis is R programming ***R version >= 3.6***
+and is tested to work under windows as well as Ubuntu.<br/>
 ***Dataset preparation*** <br/>
 breast.txt and ovary.txt is the input files for the analysis.  <br/>
 We have preprocessed the original data and initialized some labels according to the category. <br/>
@@ -37,7 +37,7 @@ BRCA1 High=2
 Ovary_KM.R
 ovary_Cox.R
 Breast_KM.R
-breast_cox.R
+breast_cox.R <br/>
 
 
 
