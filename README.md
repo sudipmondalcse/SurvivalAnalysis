@@ -1,7 +1,8 @@
 # SurvivalAnalysis
 
 ***Prerequisites :*** <br/>
-
+The required dependencies for the analysis is ***R version 3.6***
+and is tested to work under windows as well as Ubuntu.
 ***Dataset preparation*** <br/>
 breast.txt and ovary.txt is the input files for the analysis.  <br/>
 We have preprocessed the original data and initialized some labels according to the category. <br/>
