@@ -43,4 +43,4 @@ breast_cox.R & ovary_Cox.R for Cox PH
 
 ***Feedback*** <br/>
 Any further information contact at <br/> 
-sudip.wbsu@gmail.com,  namrata.bhattacharya03@gmail.com, dastroyee1993@gmail.com
+smcse_rs@caluniv.ac.in,  namrata.bhattacharya03@gmail.com, dastroyee1993@gmail.com
