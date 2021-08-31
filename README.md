@@ -2,7 +2,7 @@
 
 Available at https://link.springer.com/chapter/10.1007/978-3-030-67051-1_4
 
-Cite :Mondal, S., Bhattacharya, N., Das, T., Ghosh, Z., & Khatua, S. (2021). Implication of Statistical Methods on Patient Data: An Approach for Cancer Survivability Prediction. In Intelligent Healthcare (pp. 57-80). Springer, Cham.
+**Cite :** Mondal, S., Bhattacharya, N., Das, T., Ghosh, Z., & Khatua, S. (2021). Implication of Statistical Methods on Patient Data: An Approach for Cancer Survivability Prediction. In Intelligent Healthcare (pp. 57-80). Springer, Cham.
 ***Prerequisites :*** <br/>
 The required dependencies for the analysis is R programming ***R version >= 3.6***
 and is tested to work under windows as well as Ubuntu.<br/>
